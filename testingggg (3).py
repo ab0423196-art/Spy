@@ -6,8 +6,8 @@ import requests
 import time
 
 # ================== CONFIG ==================
-BOT_TOKEN = "8556247369:AAGJvTvad1aCfWk8Sh9vI5LsK4qtj3YQrLY"  # yahan apna token daal sakte ho
-ADMIN_IDS = [7968177079]
+BOT_TOKEN = "8444158924:AAGw-zU6LZVmf7AiJSVsC6kkwf75RLuhcZU"  # yahan apna token daal sakte ho
+ADMIN_IDS = [8367094890]
 
 DEFAULT_CREDITS = 10
 LOOKUP_COST = 1
